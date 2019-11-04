@@ -9,6 +9,7 @@ public class GameOver : MonoBehaviour
     public string LevelScene;
     public bool isDead;
     public GameObject deadCanvas;
+
     // Start is called before the first frame update
     void Start()
     {
